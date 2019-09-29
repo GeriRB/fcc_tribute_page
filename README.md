@@ -1,0 +1,1 @@
+First project of the Applied Web Design course in FCC. Consists in creating a tribute page.
