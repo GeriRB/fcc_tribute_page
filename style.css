@@ -1,0 +1,67 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    background-color: #e8e8e8;
+    font-size: 16px;
+}
+h1 {
+    font-size: 2.5em; /* 16*2.5=40*/
+}
+header {
+    padding-top: 1em;
+    text-align: center;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center-text {
+    text-align: center;
+}
+.image {
+    background-color: white;
+    display: block;
+    width: 95%;
+    margin: auto;
+    padding: 1.5em;
+    border-radius: 0.1em;
+}
+h2 {
+    font-size: 1.25em; /* 16*1.25=20*/
+}
+#tribute-info {
+    margin: auto;
+    max-width: 600px;
+    padding-top: 2em;
+}
+ul {
+    padding-top: 2.5em;
+    padding-bottom: 2.5em;
+    padding-left: 20px;
+}
+li {
+    line-height: 1.5em;
+}
+li:not(:last-child) {
+    margin-bottom: 1em;
+}
+blockquote {
+    font-style: italic;
+    margin: auto;
+    max-width: 600px;
+    padding-bottom: 2.5em;
+}
+footer{
+    padding-top: 1em;
+    text-align: center;
+    font-size: 1.25em; /* 16*1.25=20*/
+    font-weight: bold;
+    padding-bottom: 2.5em;
+}
